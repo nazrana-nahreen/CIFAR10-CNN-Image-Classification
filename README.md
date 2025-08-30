@@ -45,3 +45,8 @@ The model achieves **~80% accuracy** on the test set using a simple CNN architec
 1. Clone this repository:
 ```bash
 git clone https://github.com/YourUsername/CIFAR10-CNN-Image-Classification.git
+📎 References
+
+CIFAR-10 Dataset
+
+TensorFlow CNN Guide
